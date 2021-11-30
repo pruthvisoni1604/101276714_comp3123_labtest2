@@ -1,0 +1,7 @@
+body {
+    margin: 10px;
+    background: rgb(150, 200, 200);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
